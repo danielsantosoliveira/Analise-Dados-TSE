@@ -1,7 +1,7 @@
 # Análise de Dados TSE
 #### Eleições Municipais 2016 e 2020 de todo o estado de São Paulo
 
-A análise apresenta os dados da participação dos Pretos e Pardos aos pleitos de Prefeito, Vice-Prefeito e Vereador; classificados por:
+A análise apresenta os dados da participação de Pretos e Pardos aos pleitos de Prefeito, Vice-Prefeito e Vereador; classificados por:
 - SITUACAO DOS CANDIDATOS AO PLEITO
 - GÊNERO
 - CARGO
